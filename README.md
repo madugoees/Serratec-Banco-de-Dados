@@ -1,6 +1,10 @@
 # Serratec-Banco-de-Dados
 Repositório criado para armazenar os trabalhos realizados na disciplina de Banco de Dados.
 
+Link do Diagrama Conceitual:
+
+https://app.diagrams.net/#G1EYhB-YGPj3_bOhMb7BXcfZXWYgfQYBFm#%7B"pageId"%3A"w70grWobmNstFdThK53U"%7D
+
 Professor da Disciplina : Felipe Lacerda
 
 Integrantes do grupo: 
@@ -12,4 +16,4 @@ Integrantes do grupo:
 
 - Maria Eduarda Goes - https://www.linkedin.com/in/maria-eduarda-g%C3%B3es-pelaggi-818871227/
 
-- Nicolle Melo - https://www.linkedin.com/in/nimellodev
+- Nicolle Mello - https://www.linkedin.com/in/nimellodev
